@@ -1,0 +1,4 @@
+br/com/fiap/consultacep/databinding/ActivityMainBinding.java
+ br.com.fiap.consultacep.databinding.ActivityMainBinding
+br/com/fiap/consultacep/BuildConfig.java
+ br.com.fiap.consultacep.BuildConfig
